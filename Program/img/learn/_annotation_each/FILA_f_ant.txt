@@ -1,0 +1,44 @@
+%
+FILA_f/FILA_f_0001.jpg
+1
+FILA_f 75 71 131 138
+%
+FILA_f/FILA_f_0002.jpg
+1
+FILA_f 82 70 124 134
+%
+FILA_f/FILA_f_0003.jpg
+1
+FILA_f 69 62 148 161
+%
+FILA_f/FILA_f_0004.jpg
+1
+FILA_f 75 63 137 143
+%
+FILA_f/FILA_f_0005.jpg
+1
+FILA_f 63 51 162 174
+%
+FILA_f/difficult_FILA_f_0001.jpg
+1
+FILA_f 67 77 133 121
+%
+FILA_f/unclear_FILA_f_0001.jpg
+1
+FILA_f 66 52 156 169
+%
+FILA_f/unclear_FILA_f_0002.jpg
+1
+FILA_f 68 58 144 147
+%
+FILA_f/unclear_FILA_f_0003.jpg
+1
+FILA_f 90 79 105 108
+%
+FILA_f/unclear_FILA_f_0004.jpg
+1
+FILA_f 83 75 122 121
+%
+FILA_f/unclear_FILA_f_0005.jpg
+1
+FILA_f 69 77 134 124

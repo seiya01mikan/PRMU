@@ -1,0 +1,56 @@
+%
+UA/UA_0001.jpg
+1
+UA 37 27 202 111
+%
+UA/UA_0002.jpg
+1
+UA 61 42 106 66
+%
+UA/UA_0003.jpg
+1
+UA 42 33 199 126
+%
+UA/UA_0004.jpg
+1
+UA 38 22 192 128
+%
+UA/UA_0005.jpg
+1
+UA 37 37 208 119
+%
+UA/UA_0006.jpg
+1
+UA 47 39 194 103
+%
+UA/UA_0007.jpg
+1
+UA 46 33 178 105
+%
+UA/difficult_UA_0001.jpg
+1
+UA 45 42 201 119
+%
+UA/difficult_UA_0002.jpg
+1
+UA 46 43 189 116
+%
+UA/difficult_UA_0003.jpg
+1
+UA 41 43 200 122
+%
+UA/unclear_UA_0001.jpg
+1
+UA 48 36 188 109
+%
+UA/unclear_UA_0002.jpg
+1
+UA 41 32 203 122
+%
+UA/unclear_UA_0003.jpg
+1
+UA 39 35 191 100
+%
+UA/unclear_UA_0004.jpg
+1
+UA 65 55 133 80

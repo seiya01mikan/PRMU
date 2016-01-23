@@ -1,0 +1,48 @@
+%
+NB/NB_0001.jpg
+1
+NB 78 43 176 87
+%
+NB/NB_0002.jpg
+1
+NB 44 41 198 118
+%
+NB/NB_0003.jpg
+1
+NB 82 39 169 85
+%
+NB/NB_0004.jpg
+1
+NB 39 49 189 93
+%
+NB/difficult_NB_0001.jpg
+1
+NB 44 45 185 96
+%
+NB/difficult_NB_0002.jpg
+1
+NB 46 51 184 94
+%
+NB/unclear_NB_0001.jpg
+1
+NB 38 39 196 94
+%
+NB/unclear_NB_0002.jpg
+1
+NB 54 52 192 94
+%
+NB/unclear_NB_0003.jpg
+1
+NB 61 67 155 74
+%
+NB/unclear_NB_0004.jpg
+1
+NB 43 42 197 100
+%
+NB/unclear_NB_0005.jpg
+1
+NB 60 44 156 87
+%
+NB/unclear_NB_0006.jpg
+1
+NB 51 54 167 87

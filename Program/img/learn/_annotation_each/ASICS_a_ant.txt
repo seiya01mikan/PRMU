@@ -1,0 +1,92 @@
+%
+ASICS_a/ASICS_a_0001.jpg
+1
+ASICS_a 59 47 163 183
+%
+ASICS_a/ASICS_a_0002.jpg
+1
+ASICS_a 70 68 138 146
+%
+ASICS_a/ASICS_a_0003.jpg
+1
+ASICS_a 61 71 159 163
+%
+ASICS_a/ASICS_a_0004.jpg
+1
+ASICS_a 67 65 142 157
+%
+ASICS_a/ASICS_a_0005.jpg
+1
+ASICS_a 68 63 151 169
+%
+ASICS_a/ASICS_a_0006.jpg
+1
+ASICS_a 69 81 146 135
+%
+ASICS_a/ASICS_a_0007.jpg
+1
+ASICS_a 51 57 157 161
+%
+ASICS_a/ASICS_a_0008.jpg
+1
+ASICS_a 64 68 145 150
+%
+ASICS_a/ASICS_a_0009.jpg
+1
+ASICS_a 75 77 123 142
+%
+ASICS_a/difficult_ASICS_a_0001.jpg
+1
+ASICS_a 61 72 127 121
+%
+ASICS_a/difficult_ASICS_a_0002.jpg
+1
+ASICS_a 69 59 139 164
+%
+ASICS_a/difficult_ASICS_a_0003.jpg
+1
+ASICS_a 61 80 124 126
+%
+ASICS_a/difficult_ASICS_a_0004.jpg
+1
+ASICS_a 62 72 128 141
+%
+ASICS_a/difficult_ASICS_a_0005.jpg
+1
+ASICS_a 75 75 121 132
+%
+ASICS_a/unclear_ASICS_a_0001.jpg
+1
+ASICS_a 72 79 138 140
+%
+ASICS_a/unclear_ASICS_a_0002.jpg
+1
+ASICS_a 77 68 112 145
+%
+ASICS_a/unclear_ASICS_a_0003.jpg
+1
+ASICS_a 65 59 148 167
+%
+ASICS_a/unclear_ASICS_a_0004.jpg
+1
+ASICS_a 48 53 175 168
+%
+ASICS_a/unclear_ASICS_a_0005.jpg
+1
+ASICS_a 67 66 143 145
+%
+ASICS_a/unclear_ASICS_a_0006.jpg
+1
+ASICS_a 56 66 154 152
+%
+ASICS_a/unclear_ASICS_a_0007.jpg
+1
+ASICS_a 57 56 174 160
+%
+ASICS_a/unclear_ASICS_a_0008.jpg
+1
+ASICS_a 55 55 153 162
+%
+ASICS_a/unclear_ASICS_a_0009.jpg
+1
+ASICS_a 65 59 138 165
